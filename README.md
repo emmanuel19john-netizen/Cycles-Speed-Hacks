@@ -4,10 +4,10 @@
 Speed up your Blender Cycles renders without sacrificing visual quality. **Cycles Speed Hacks** is a lightweight Blender 5.0 add-on designed to optimize render settings, reduce noise, and cut down render times with just a few clicks. 
 
 #### ✨ Features
-
-* **One-Click Render Presets:** Quickly switch between fast preview and clean final render settings.
-* **Smart Light Path Optimization:** Automatically tunes ray bounces to eliminate unnecessary render calculations.
-* **Adaptive Sampling & Denoising Setup:** Configures noise thresholds and denoising for faster, cleaner results.
+1. AO factor after 2 bounces
+2. caustics turned off
+3. Simplify tab enabled and limits texture to 2K
+4. etc.
 
 
 #### 💻 Compatibility
