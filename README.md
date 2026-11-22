@@ -30,7 +30,7 @@ Speed up your Blender Cycles renders without sacrificing visual quality. **Cycle
 3. press F12 to render it should take about 12-14 seconds to render depending on your hardware and scene complexity
 
 #Note the add-ons sets the device to CPU you might want to switch to GPU if you can
-The add-on also sets scale to 75% to speed up stuff you might want to change it but It might increase render times
+The add-on also sets resolution scale to 75% to speed up stuff you might want to change it but It might increase render times
 
 #### 📄 License
 
