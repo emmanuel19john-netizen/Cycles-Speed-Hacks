@@ -24,7 +24,7 @@ Speed up your Blender Cycles renders without sacrificing visual quality. **Cycle
 5. Make sure **Cycles Speed Hacks** is enabled in your Add-ons list.
 
 #### 🚀 How to Use
-1. Switch Render Engine to Cyc;es
+1. Switch Render Engine to Cycles
 2. Click Apply Ultra Fast Cycles
 3. Press F12 to render
 
